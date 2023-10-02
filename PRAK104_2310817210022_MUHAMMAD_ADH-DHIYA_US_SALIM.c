@@ -4,8 +4,8 @@ int main() {
     int SepatuA = 400000;
     int SepatuB = 350000;
 
-    float diskonA = 0.13;
-    float diskonB = 0.21;
+    float diskonA = 0.21;
+    float diskonB = 0.13;
 
     float HargaDiskonA = SepatuA - (SepatuA * diskonA);
     float HargaDiskonB = SepatuB - (SepatuB * diskonB);
